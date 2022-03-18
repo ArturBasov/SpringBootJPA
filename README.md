@@ -2,4 +2,4 @@
 
 Example of: Spring Boot, JPA, Error Handling, Swagger, Spring Boot Actuator, AOP, Logging, Validation,  Liquibase, ActiveMQ
 
-**DB tables see REST.jpg**
+**DB tables - ** https://github.com/ArturBasov/SpringBootJPA/blob/master/REST.jpg
